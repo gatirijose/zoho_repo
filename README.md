@@ -1,2 +1,2 @@
 # zoho_repo
-updated repository with SMTP configuration 
+sending emails with SMTP configuration 
